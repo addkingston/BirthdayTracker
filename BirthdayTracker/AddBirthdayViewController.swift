@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import Foundation
 
 protocol AddBirthdayViewControllerDelegate {
     func addBirthdayViewController(_ addBirthdayViewController: AddBirthdayViewController, didAddBirthday birthday: Birthday)
