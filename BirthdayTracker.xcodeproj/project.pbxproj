@@ -14,7 +14,6 @@
 		FA69A62D27EAFF4400D76072 /* BirthdayTracker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FA69A62B27EAFF4400D76072 /* BirthdayTracker.xcdatamodeld */; };
 		FA69A62F27EAFF4600D76072 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA69A62E27EAFF4600D76072 /* Assets.xcassets */; };
 		FA69A63227EAFF4600D76072 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA69A63027EAFF4600D76072 /* LaunchScreen.storyboard */; };
-		FA69A63A27EB05F700D76072 /* Birthday.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA69A63927EB05F700D76072 /* Birthday.swift */; };
 		FA69A63C27EB0A1000D76072 /* BirthdaysTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA69A63B27EB0A1000D76072 /* BirthdaysTableViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		FA69A62E27EAFF4600D76072 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA69A63127EAFF4600D76072 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA69A63327EAFF4600D76072 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FA69A63927EB05F700D76072 /* Birthday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Birthday.swift; sourceTree = "<group>"; };
 		FA69A63B27EB0A1000D76072 /* BirthdaysTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdaysTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,7 +68,6 @@
 				FA69A63027EAFF4600D76072 /* LaunchScreen.storyboard */,
 				FA69A63327EAFF4600D76072 /* Info.plist */,
 				FA69A62B27EAFF4400D76072 /* BirthdayTracker.xcdatamodeld */,
-				FA69A63927EB05F700D76072 /* Birthday.swift */,
 				FA69A63B27EB0A1000D76072 /* BirthdaysTableViewController.swift */,
 			);
 			path = BirthdayTracker;
@@ -148,7 +145,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA69A63C27EB0A1000D76072 /* BirthdaysTableViewController.swift in Sources */,
-				FA69A63A27EB05F700D76072 /* Birthday.swift in Sources */,
 				FA69A62727EAFF4400D76072 /* AddBirthdayViewController.swift in Sources */,
 				FA69A62327EAFF4400D76072 /* AppDelegate.swift in Sources */,
 				FA69A62527EAFF4400D76072 /* SceneDelegate.swift in Sources */,
